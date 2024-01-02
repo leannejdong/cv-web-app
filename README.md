@@ -33,16 +33,16 @@ Ensure proper validation of resume data to prevent malicious input.
 
 * Deployment:
 
-- Set up the production MongoDB environment or use a cloud-based MongoDB service.
-- Deploy the resume builder app to a hosting platform.
+  - Set up the production MongoDB environment or use a cloud-based MongoDB service.
+  - Deploy the resume builder app to a hosting platform.
 
 * Monitoring and Maintenance:
 
-- Implement monitoring for database performance.
-- Regularly update and patch MongoDB as needed.
+  - Implement monitoring for database performance.
+  - Regularly update and patch MongoDB as needed.
 
 * Scale:
 
-- Monitor app usage and consider scaling strategies if needed, such as horizontal scaling by adding more servers.
+  - Monitor app usage and consider scaling strategies if needed, such as horizontal scaling by adding more servers.
 
 The database development process is closely intertwined with the overall development of the app. 
